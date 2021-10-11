@@ -5,7 +5,7 @@ from os import listdir
 from os.path import isfile, join
 
 
-description = 'Script could downscale images to specific width/height.'
+description = 'Script for downscaling images to specific width/height.'
 usage = '%(prog)s type value input_dir output_dir'
 parser = argparse.ArgumentParser(description=description, usage=usage)
 parser.add_argument('type', help='could be width or height')
