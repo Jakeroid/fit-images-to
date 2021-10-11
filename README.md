@@ -6,6 +6,8 @@ I am using it when I need downscale images without editor on my hand.
 ```
 git clone https://github.com/Jakeroid/fit-images-to
 cd fit-images-to
+python -m venv ./venv
+source ./venv/bin/activate
 pip install -r requirements.txt
 python main.py --help
 ```
