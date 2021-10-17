@@ -10,7 +10,6 @@ cd fit-images-to
 python -m venv ./venv
 source ./venv/bin/activate
 pip install -r requirements.txt
-python main.py --help
 ```
 
 # Examples of usage
