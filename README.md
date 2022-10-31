@@ -3,6 +3,8 @@ Simple script for downscale images to specific width or height.
 Main purpose is handling a batch of images. 
 I am using it when I need downscale images without editor on my hand.
 
+If you need some assistant or similar software I could help. Contact me on [LinkedIn](https://www.linkedin.com/in/ivan-karabadzhak-42712113b/) or [Upwork](https://www.upwork.com/freelancers/ivank6). 
+
 # Installing
 ```
 git clone https://github.com/Jakeroid/fit-images-to
