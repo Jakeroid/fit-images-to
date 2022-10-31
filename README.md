@@ -1,9 +1,8 @@
 # fit-images-to
-Simple script for downscale images to specific width or height.
-Main purpose is handling a batch of images. 
-I am using it when I need downscale images without editor on my hand.
+The simple script is for downscaling images to specific widths or heights.
+I use it when I need downscale images without an editor in my hand. The primary purpose is to handle a batch of photos.
 
-If you need some assistant or similar software I could help. Contact me on [LinkedIn](https://www.linkedin.com/in/ivan-karabadzhak-42712113b/) or [Upwork](https://www.upwork.com/freelancers/ivank6). 
+If you need some assistance or similar software, I could help. Contact me on [LinkedIn](https://www.linkedin.com/in/ivan-karabadzhak-42712113b/) or [Upwork](https://www.upwork.com/freelancers/ivank6).
 
 # Installing
 ```
