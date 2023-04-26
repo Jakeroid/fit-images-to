@@ -9,7 +9,7 @@ If you need some assistance or similar software, I could help. Contact me on [Li
 git clone https://github.com/Jakeroid/fit-images-to
 cd fit-images-to
 python -m venv ./venv
-source ./venv/bin/activate
+source ./venv/bin/activate # (if you use fish shell then use: . ./venv/bin/activate.fish)
 pip install -r requirements.txt
 ```
 
