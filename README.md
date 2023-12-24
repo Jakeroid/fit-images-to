@@ -5,11 +5,16 @@ I use it when I need downscale images without an editor in my hand. The primary 
 If you need some assistance or similar software, I could help. Contact me on [LinkedIn](https://www.linkedin.com/in/ivan-karabadzhak-42712113b/) or [Upwork](https://www.upwork.com/freelancers/ivank6).
 
 # Installing
+You also may need to install some libraries. For example, on MacOS you could do following.
+```
+brew install jpeg libpng libtiff openjpeg webp little-cms2
+```
 ```
 git clone https://github.com/Jakeroid/fit-images-to
 cd fit-images-to
 python -m venv ./venv
 source ./venv/bin/activate # (if you use fish shell then use: . ./venv/bin/activate.fish)
+pip install --upgrade pip setuptools wheel
 pip install -r requirements.txt
 ```
 
